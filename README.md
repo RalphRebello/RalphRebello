@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá! Bem-vindo ao meu perfil 👋
 
-<!--
-**RalphRebello/RalphRebello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um entusiasta de tecnologia com paixão por Python e automação. Meu objetivo é me desenvolver cada vez mais como programador Python, explorando projetos criativos e desafiadores.
 
-Here are some ideas to get you started:
+💡 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Interesses: Desenvolvimento de software, automação, cloud computing (Azure e AWS), e infraestrutura como código (Terraform).
+
+🔧 Ferramentas e Tecnologias: Python, Kubernetes, Terraform, e muito mais.
+
+🔎 Aprendendo atualmente: Melhores práticas em Python e como contribuir para projetos open-source.
+
+🔄 Como me conectar
+
+🖊❤️ Estou aberto a colaborações e novas ideias. Me envie uma mensagem ou conecte-se comigo pelo LinkedIn!
+
+📢 Fique à vontade para explorar meus repositórios e dar sugestões.
+
+Obrigado por visitar meu perfil! Vamos construir algo incrível juntos! 🚀
+
