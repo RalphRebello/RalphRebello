@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RalphRebello</title>
+    <link
+      id="theme-terminal"
+      rel="stylesheet"
+      href="style-terminal.css"
+      disabled
+    />
+    <link id="theme-default" rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="page-wrapper">
+        <!-- opcional: navbar com âncoras -->
+        <nav class="nav">
+          <div class="nav-inner">
+            <a href="#hero">Início</a>
+            <a href="#about">Sobre</a>
+            <a href="#experience">Experiência</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projetos</a>
+            <a href="#contact">Contato</a>
+
+            <div class="theme-switcher">
+              <label for="theme-select">Tema:</label>
+              <select id="theme-select">
+                <option value="terminal">Terminal</option>
+                <option value="default">Default</option>
+              </select>
+            </div>
+          </div>
+        </nav>
+
+        <section id="hero">
+          <p><span style="color: #22c55e">ralph@portfolio</span>:~$ whoami</p>
+          <h1>Ralph Rebello</h1>
+          <h2>Platform Engineer • SRE • DevOps</h2>
+          <p>
+            Python · Django · Kubernetes · Azure · AWS · Terraform · Automação
+          </p>
+          <p>Porto Alegre – RS, Brasil</p>
+          <a href="https://www.linkedin.com/in/ralphrebello/" target="_blank"
+            >LinkedIn</a
+          >
+          <a href="https://github.com/rrebelo62" target="_blank">GitHub</a>
+          <a href="mailto:seuemail@dominio.com">E-mail</a>
+        </section>
+
+        <section id="about">
+          <h3>Sobre mim</h3>
+          <p>
+            Sou engenheiro de computação e atuo como Platform Engineer / SRE com
+            foco em construir plataformas confiáveis, automatizadas e
+            observáveis em ambientes de nuvem (Azure e AWS).
+          </p>
+          <p>
+            Tenho experiência sólida em Kubernetes, automação de infraestrutura
+            com Terraform e desenvolvimento backend em Python/Django, ajudando
+            times de produto a entregar software com segurança, performance e
+            previsibilidade.
+          </p>
+        </section>
+
+        <section id="experience">
+          <h3>Experiência</h3>
+          <!-- Repita este bloco para cada experiência -->
+          <article>
+            <h4>Platform Engineer – [Empresa atual]</h4>
+            <p>mar/2023 – atual · Porto Alegre, RS, Brasil</p>
+            <ul>
+              <li>
+                Atuação como SRE/DevOps em ambiente multi-cloud (Azure e AWS).
+              </li>
+              <li>
+                Criação e manutenção de clusters Kubernetes para aplicações de
+                missão crítica.
+              </li>
+              <li>
+                Automação de infraestrutura utilizando Terraform e pipelines de
+                CI/CD.
+              </li>
+              <li>
+                Implantação de práticas de observabilidade para aumentar a
+                confiabilidade dos serviços.
+              </li>
+            </ul>
+          </article>
+        </section>
+
+        <section id="skills">
+          <h3>Skills & Stack</h3>
+          <ul>
+            <li>Linguagens: Python, Shell Script.</li>
+            <li>Backend: Django, REST APIs.</li>
+            <li>Cloud: Azure, AWS.</li>
+            <li>Containers & Orquestração: Docker, Kubernetes.</li>
+            <li>Infra as Code & Automação: Terraform, CI/CD.</li>
+            <li>Observabilidade: Prometheus, Grafana, logging, alertas.</li>
+          </ul>
+        </section>
+
+        <section id="projects">
+          <h3>Projetos</h3>
+          <article>
+            <h4>[Nome do projeto]</h4>
+            <p>Breve descrição do problema e da solução implementada.</p>
+            <p>
+              <strong>Techs:</strong> Kubernetes, Terraform, Azure DevOps,
+              Python.
+            </p>
+          </article>
+        </section>
+
+        <section id="contact">
+          <h3>Contato</h3>
+          <p>
+            E-mail:
+            <a href="mailto:ralph.rebello8@gmail.com"
+              >ralph.rebello8@gmail.com</a
+            >
+          </p>
+          <p>
+            LinkedIn:
+            <a href="https://www.linkedin.com/in/ralphrebello/" target="_blank"
+              >linkedin.com/in/ralphrebello</a
+            >
+          </p>
+        </section>
+      </div>
+    </main>
+    <script src="profile.js"></script>
+  </body>
+</html>
