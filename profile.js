@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     localStorage.setItem("theme", theme);
   }
 
-  const savedTheme = localStorage.getItem("theme") || "terminal";
+  const savedTheme = localStorage.getItem("theme") || "default";
   select.value = savedTheme;
   applyTheme(savedTheme);
   select.addEventListener("change", function () {
